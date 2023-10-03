@@ -1,0 +1,4 @@
+SELECT c.City, SUM(i.Total)
+FROM Customer c NATURAL JOIN Invoice i
+GROUP BY 1
+ORDER BY 2 DESC;
