@@ -19,7 +19,7 @@ ORDER BY 2 DESC;
 
 ### Results
 
-![Result_1](Results\Result_1.png)
+![Result_1](Results/Result_1.png)
 ---
 
 ## Question 2: Which are the top 10 cities with the highest-spending customers?
@@ -35,7 +35,7 @@ ORDER BY 2 DESC;
 ```
 ### Results
 
-![Result_2](Results\Result_2.png)
+![Result_2](Results/Result_2.png)
 
 ---
 ## Question 3: Who are the top 10 customers?
@@ -52,7 +52,7 @@ GROUP BY 1, 2
 ORDER BY 3 DESC;
 ```
 ### Results
-![Result_3](Results\Result_3.png)
+![Result_3](Results/Result_3.png)
 
 ---
 ### Schema
