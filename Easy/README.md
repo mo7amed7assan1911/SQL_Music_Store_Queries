@@ -1,6 +1,6 @@
 # Easy-Level SQL Questions
 
-💡 **Reminder**: The database schema provided at the end of this md file. 
+💡 **Reminder**: The database schema is provided at the end of this md file. 
 
 ---
 
