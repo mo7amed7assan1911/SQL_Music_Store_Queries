@@ -41,5 +41,6 @@ Let's embark on a journey through three levels of SQL music store queries:
 3. **Find the most popular music genre for each country, considering the genre with the highest purchase count. If multiple genres tie for the top spot in a country, list them all.** 🎶🌍📊
 
 ---
-##💡 Contributing
+
+## 💡 Contributing
 I welcome and appreciate contributions to enhance this repository. Whether you have new SQL queries, suggestions for improvements, or corrections to make, your involvement is valued.
