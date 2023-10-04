@@ -1,7 +1,7 @@
 
 # SQL Music Store Queries
 
-🎵 Welcome to the SQL Music Store Queries repository! Here, we dive into the fascinating world of data analysis and SQL queries on the Digital Music Store Database [Chinook Database](https://github.com/lerocha/chinook-database). Let's explore the database schema and the intriguing questions we'll answer.
+🎵 Welcome to the SQL Music Store Queries repository! Here, we dive into the fascinating world of data analysis and SQL queries on the Digital Music Store [Chinook Database](https://github.com/lerocha/chinook-database). Let's explore the database schema and the intriguing questions we'll answer.
 
 ## 📋 Database Schema
 
